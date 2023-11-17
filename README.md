@@ -1,6 +1,3 @@
 # DeepDive Artificial Neuronal Network David Pilhofer
 
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-Hello this is a test
+Dieses Repository dokumentiert die Erstellung eines Neuronalen Netzwerkes mit Tensorflow und Keras.
