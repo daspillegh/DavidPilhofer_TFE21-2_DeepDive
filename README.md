@@ -4,7 +4,7 @@ Dieses Repository dokumentiert die Erstellung eines Neuronalen Netzwerkes mit Te
 
 Hier ist der Link zum Binder des Projektes  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daspillegh/DavidPilhofer_TFE21-2_DeepDive.git/HEAD)
 
-> [!TIP]
+> [!IMPORTANT]
 > In dem Binder ist der letzte Trainingsstand dargestellt. Ohne GPU oder TPU dauert der Trainingsprozess sehr lange.
 
 ## Diskussion und Ergebnis
