@@ -2,7 +2,7 @@
 
 Dieses Repository dokumentiert die Erstellung eines Neuronalen Netzwerkes mit Tensorflow und Keras.
 
-Hier ist der Link zum Binder des Projektes (Binder Link einfügen)
+Hier ist der Link zum Binder des Projektes  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daspillegh/DavidPilhofer_TFE21-2_DeepDive.git/HEAD)
 
 ## Diskussion und Ergebnis
 
